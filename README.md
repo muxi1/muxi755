@@ -4,10 +4,6 @@ Lapse Kernel Exploit für PS4 FW 7.55 - WIP
 
 Sehr schnell und zuverlässig, kann aber KP
 
-Warnung: Verwenden Sie es nicht standardmäßig - oder besser noch, verwenden Sie es überhaupt nicht, bis ich es für stabil erklärt habe. 
-Es gibt Probleme mit bestimmten Spielen, wie z.B. Blackscreens, Probleme mit Speicherdaten und mehrere Kernel-Panics. 
-Wenn Sie die Betas nutzen wollen, tun Sie dies auf eigene Gefahr!
-
 ## Features
 
 - **Automatische Erkennung:** Erkennt automatisch den Konsolentyp und die Firmware-Version (über /config.mjs`).
