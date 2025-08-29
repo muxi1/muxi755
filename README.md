@@ -1,6 +1,6 @@
 # PSFree Version 1.5.1
 
-Lapse Kernel Exploit für PS4 FW 7.55 - WIP
+Lapse Kernel Exploit für PS4 FW 7.55
 
 Sehr schnell und zuverlässig, kann aber KP
 
